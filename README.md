@@ -22,9 +22,25 @@ Screen Recorder
 
 Network Monitoring
 
+Restrictor
+
 Script Support
 
 Obfuscation
 
 Encryption
+
+Wormlike Capabilities 
+
+Artifical Intelligence and Machine Learning 
+
+Multiple Languages Support: Russian, Chinese, Korean, English, Arabic
+
+Messaging System
+
+
+
+
+
+
 
