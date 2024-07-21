@@ -4,6 +4,10 @@ This software is intended for educational purposes only. It should never be used
 
 Features:
 
+Control Pannel and Management Software (Widnows Based / Linux / Web) 
+
+Cross Platform (Works on everything Except Mobile)
+
 Builder 
 
 Network Configuration
@@ -23,6 +27,8 @@ Registery Editor
 Remote Shell
 
 Grabber
+
+Miner
 
 Screen Recorder 
 
