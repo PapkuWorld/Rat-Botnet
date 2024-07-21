@@ -15,12 +15,17 @@ Lightweight Generated EXE...
 Presistance
 
 Network Configuration
+              Port Forwarding
+              
+              
 
 C2
 
 SFTP
 
-Remote Desktop
+Remote Desktop 
+
+VNC
 
 Keylogger
 
@@ -37,6 +42,8 @@ Grabber
 Miner
 
 Screen Recorder 
+
+
 
 Network Monitoring
 
@@ -57,6 +64,9 @@ Artifical Intelligence and Machine Learning
 Multiple Languages Support: Russian, Chinese, Korean, English, Arabic, Spanish, Persian
 
 Messaging System
+
+
+
 
 
 
