@@ -43,7 +43,7 @@ Miner
 
 Screen Recorder 
 
-
+DDOSSER 
 
 Network Monitoring
 
@@ -60,6 +60,8 @@ Automation
 Wormlike Capabilities 
 
 Artifical Intelligence and Machine Learning 
+
+Background Changer
 
 Multiple Languages Support: Russian, Chinese, Korean, English, Arabic, Spanish, Persian
 
