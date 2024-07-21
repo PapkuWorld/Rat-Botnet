@@ -12,6 +12,8 @@ Builder
 
 Lightweight Generated EXE...
 
+Presistance
+
 Network Configuration
 
 C2
@@ -52,7 +54,7 @@ Wormlike Capabilities
 
 Artifical Intelligence and Machine Learning 
 
-Multiple Languages Support: Russian, Chinese, Korean, English, Arabic
+Multiple Languages Support: Russian, Chinese, Korean, English, Arabic, Spanish, Persian
 
 Messaging System
 
