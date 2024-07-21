@@ -4,6 +4,12 @@ This software is intended for educational purposes only. It should never be used
 
 Features:
 
+Builder 
+
+Network Configuration
+
+SFTP
+
 Remote Desktop
 
 Keylogger
@@ -26,7 +32,7 @@ Restrictor
 
 Script Support
 
-Obfuscation
+Obfuscation 
 
 Encryption
 
