@@ -10,7 +10,11 @@ Cross Platform (Works on everything Except Mobile)
 
 Builder 
 
+Lightweight Generated EXE...
+
 Network Configuration
+
+C2
 
 SFTP
 
@@ -36,11 +40,13 @@ Network Monitoring
 
 Restrictor
 
-Script Support
+Plugins/Scripts Support
 
 Obfuscation 
 
 Encryption
+
+Automation
 
 Wormlike Capabilities 
 
