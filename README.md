@@ -6,7 +6,7 @@ Features:
 
 Control Pannel and Management Software (Widnows Based / Linux / Web) 
 
-Cross Platform (Works on everything Except Mobile)
+Cross Platform (Works on Dindows / Linux / Web / IOT) 
 
 Builder 
 
@@ -71,7 +71,6 @@ Decentralized
 
 P2P
 
-IOT
 
 System Requirements (Minimum Requirement):
 
