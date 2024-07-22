@@ -67,6 +67,12 @@ Multiple Languages Support: Russian, Chinese, Korean, English, Arabic, Spanish, 
 
 Messaging System
 
+Decentralized 
+
+P2P
+
+IOT
+
 
 
 
