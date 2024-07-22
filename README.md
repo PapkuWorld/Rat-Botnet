@@ -43,7 +43,7 @@ Miner
 
 Screen Recorder 
 
-DDOSSER 
+Network Stressor
 
 Network Monitoring
 
