@@ -38,6 +38,15 @@ Registery Editor
 Remote Shell
 
 Grabber
+    Web
+    Wifi
+    Ciookies
+    SQLite 
+    Mail
+    FTP
+    Clipboard
+    
+Injector
 
 Miner
 
