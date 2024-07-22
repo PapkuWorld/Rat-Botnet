@@ -78,7 +78,7 @@ System Requirements (Minimum Requirement):
 16GB Ram DDR5
 Intel Core i7 11th Gen 
 Nivida RTX 2060
-
+1TB SSD 
 
 
 
