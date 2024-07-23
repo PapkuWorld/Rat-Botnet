@@ -56,7 +56,27 @@ Grabber
     
 Injector
 
+    HTML
+    Javascript
+    DOM
+    DLL
+    Ads
+    
+
 Miner
+
+  Miner Control Panel 
+  
+  Resource Management 
+  
+  Mining Sceduler 
+  
+  Mining Pool Configurator 
+  
+
+  
+
+
 
 Screen Recorder 
 
