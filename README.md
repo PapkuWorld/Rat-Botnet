@@ -65,13 +65,13 @@ Injector
 
 Miner
 
-  Miner Control Panel 
-  
-  Resource Management 
-  
-  Mining Sceduler 
-  
-  Mining Pool Configurator 
+      Miner Control Panel 
+      
+      Resource Management 
+      
+      Mining Sceduler 
+      
+      Mining Pool Configurator 
   
 
   
