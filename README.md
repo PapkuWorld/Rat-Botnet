@@ -6,7 +6,7 @@ Features:
 
 Control Pannel and Management Software (Widnows Based / Linux / Web) 
 
-Cross Platform (Works on Dindows / Linux / Web / IOT) 
+Cross Platform (Works on Windows / Linux / Web / IOT) 
 
 Builder 
 
