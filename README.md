@@ -8,6 +8,8 @@ Control Pannel and Management Software (Widnows Based / Linux / Web)
 
 Cross Platform (Works on Windows / Mac OS / Linux / Web / IOT) 
 
+Statistics and Analytics
+
 Builder 
 
 Lightweight Generated EXE...
