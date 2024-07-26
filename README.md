@@ -10,7 +10,7 @@ Cross Platform (Works on Windows / Mac OS / Linux / Android / Web / IOT)
 
 Statistics and Analytics
 
-Builder 
+Builder builds 6-7 types of files) 
 
 Lightweight Generated EXE...
 
