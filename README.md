@@ -1,83 +1,116 @@
 This software is intended for educational purposes only. It should never be used on real systems or for any malicious activities.
 (Project Under Development)
 
+Update: My Mental Health 
+I am free from the hospital, and I am no longer taking heavy schizophrenia medications. Still receiving support for my level 2 autism with navigating daily life. So now I can work on this, yay! 
+I know things are messy now, but I will organize them. I haven't even added the local stuff I was researching yet lol.
 
 Features:
 
-Control Pannel and Management Software (Widnows Based / Linux / Web) 
+Control Panel and Management Software (Windows-Based / Linux / Web) 
 
 Cross Platform (Works on Windows / Mac OS / Linux / Android / Web / IOT) 
 
-Statistics and Analytics
+Statistics and Analytics (Will be built with data science and data engineering visualization ports)
 
-Builder builds 6-7 types of files) 
+Builder builds various file types generated for execution) 
+.elf
+.bin
+.py
+.js
+.docx
+.msdox
+.pdf
+.txt
+.apk 6
+.apk 15
+.apk 16 
+.exe 32 
+.exe 64
+.app 18
+.app 26 
 
-Lightweight Generated EXE...
+
 
 Presistance
 
 Network Configuration
               Port Forwarding
               
-              
 
-C2
+
+C2 Configurator 
 
 SFTP
 
+Friendly Module 
+
 Remote Desktop 
+  Browser Control
+    Google Chrome (Chromium)
+    Brave (Chromium)
+    Microsoft Edge 
+    Safari (WebKit)
+    Mozilla Firefox (Gecko)
 
-VNC
+Search Engine Redirects 
+Ad ID Management and Redirects 
 
+
+
+
+EDR Module 
+    
+  
+
+Other Manager (Optional)
+  Control Everything with Telegram
+  Control Everything with Email 
+  Control Everything with an Instant Messenger 
+  Control Everything with IRC 
+
+  
 Keylogger
+
+Process Management 
+  kill
+  start
+  
 
 File Transfer
 
 Cameras / Microphone
 
-Registery Editor
+Registry Editor
 
 Remote Shell
 
+Uninstaller
+Installer 
+
 Grabber
-
-    Web
-    
-    Wifi
-    
-    Ciookies
-    
-    SQLite 
-    
-    Mail
-
-    FTP
-    
-    Clipboard
+  Web
+  Wifi
+  Ciookies
+  SQLite 
+  Mail
+  FTP
+  Clipboard
     
     
 Injector
-
     HTML
-    
     Javascript
-    
     DOM
-    
     DLL
-    
     Ads
     
 
 Miner
-
-      Miner Control Panel 
-      
-      Resource Management 
-      
-      Mining Sceduler 
-      
-      Mining Pool Configurator 
+  Miner Control Panel  
+  Resource Management 
+  Mining Scheduler 
+  Mining Pool Configurator 
   
 
   
@@ -85,6 +118,14 @@ Miner
 
 
 Screen Recorder 
+        720p 30fps, 720p 60fps, 720p 120fps, 1080p 60fps, 1080p 120fps, 4k 30fps, 4k 60fps, 4k 120fps,
+
+
+
+Sceduler 
+
+
+        
 
 Network Stressor
 
@@ -102,7 +143,10 @@ Automation
 
 Wormlike Capabilities 
 
-Artifical Intelligence and Machine Learning 
+Artificial Intelligence and Machine Learning (LLM Integration)
+ - Local
+ - Online 
+  
 
 Background Changer
 
@@ -113,6 +157,15 @@ Messaging System
 Decentralized 
 
 P2P
+
+Modular Configuration Generator and Loader 
+
+
+Reverse Engineering Protection 
+ builder 
+ executable 
+
+
 
 
 System Requirements (Minimum Requirement):
