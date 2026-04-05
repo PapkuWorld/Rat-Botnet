@@ -2,7 +2,7 @@ This software is intended for educational purposes only. It should never be used
 (Project Under Development)
 
 Update: My Mental Health 
-I am free from the hospital, and I am no longer taking heavy schizophrenia medications. Still receiving support for my level 2 autism with navigating daily life. So now I can work on this, yay! 
+I am free from the hospital, and I am no longer taking heavy schizophrenia medications and still receiving support for my level 2 autism with navigating daily life. So now I can work on this, yay! 
 I know things are messy now, but I will organize them. I haven't even added the local stuff I was researching yet lol.
 
 Features:
@@ -44,6 +44,19 @@ C2 Configurator
 SFTP
 
 Friendly Module 
+  Extract Forensics 
+  Anti Forensics 
+  Ad Block
+  Parental Control 
+  Encryption Manager
+    Full Disk Encryption
+    Decrypt 
+    
+  Traffic Manager 
+    Encrypted
+    Decrypted 
+    Segmented Traffic
+    
 
 Remote Desktop 
   Browser Control
@@ -52,8 +65,15 @@ Remote Desktop
     Microsoft Edge 
     Safari (WebKit)
     Mozilla Firefox (Gecko)
+    TOR Browser 
+    
 
 Search Engine Redirects 
+  Google
+  Starpage
+  Bing
+  Duckduckgo
+  
 Ad ID Management and Redirects 
 
 
@@ -68,6 +88,12 @@ Other Manager (Optional)
   Control Everything with Email 
   Control Everything with an Instant Messenger 
   Control Everything with IRC 
+  (comms) Jabber
+  (comms) XMPP
+  (comms) i2p
+  (comms) TOR
+  (comms) Domain
+  
 
   
 Keylogger
@@ -117,7 +143,7 @@ Miner
 
 
 
-Screen Recorder 
+Screen Recorder 30fps-60fps-120fps-240fps 
         720p 30fps, 720p 60fps, 720p 120fps, 1080p 60fps, 1080p 120fps, 4k 30fps, 4k 60fps, 4k 120fps,
 
 
