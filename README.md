@@ -14,6 +14,10 @@ Cross Platform (Works on Windows / Mac OS / Linux / Android / Web / IOT)
 Statistics and Analytics (Will be built with data science and data engineering visualization ports)
 
 Builder builds various file types generated for execution) 
+.webp
+.gif
+.jpeg
+.png
 .elf
 .bin
 .py
@@ -33,6 +37,10 @@ Builder builds various file types generated for execution)
 
 
 Presistance
+  Operating System
+  Boot Sector 
+
+
 
 Network Configuration
               Port Forwarding
@@ -97,6 +105,11 @@ Other Manager (Optional)
 
   
 Keylogger
+  modes
+  Catch all
+  sclective mode 
+  emailer 
+  
 
 Process Management 
   kill
