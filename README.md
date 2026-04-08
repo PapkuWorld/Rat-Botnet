@@ -11,25 +11,15 @@ I know things are messy now, but I will organize them. I haven't even added the 
 #### Control Panel and Management Software 
 
 Windows
-
 Windows 11 
-
 Windows Server 2022
-
 Windows Server 2025
-
 Mac
-
 Linux
-
 Debian
-
 Arch
-
- Web 
-
+Web 
 Web Mobile 
-
 Web Desktop
 
 
@@ -37,15 +27,10 @@ Web Desktop
 #### Cross Platform 
 
 Windows
-
 Mac OS
-
 Linux 
-
 Android
-
 Web
-
 IOT
 
 
@@ -151,8 +136,7 @@ Fleet Control
 Spawn Kali 
 Spawn ubuntu 
 Spawn Linux Distro (Beta)
-  
-  
+
 
 
     
@@ -194,8 +178,9 @@ Ad ID Management and Redirects
 
 modes
 Catch all
-selective mode 
+selective 
 emailer 
+instant messenger sender
 
 
 #### Prank Module
@@ -232,7 +217,9 @@ Installer
   Mail
   FTP
   Clipboard
-  doc grabber 
+  DOC
+  Keys
+  By Filetype 
 
     
 
@@ -252,6 +239,12 @@ Resource Management
 Mining Scheduler 
 Mining Pool Configurator 
 
+Supported Currencies 
+Monero
+Eth 
+Bitcoin
+
+Computational power to currency (custom)
 
 
 
@@ -274,9 +267,21 @@ Mining Pool Configurator
 
 
 #### Network Stressor
+Total Connections 
+DNS
+UDP
+ICMP
+SYN
+SYN ACK
+HTTP
+Slowloris
+ReDoS
+
 
 
 #### Network Monitoring
+Network Mapper 
+Network Descovery 
 
 
 #### Restrictor
@@ -298,9 +303,12 @@ protect process
 
 
 #### Automation
-
+Should put this under system admin tbh
 
 #### Wormlike Capabilities 
+usb
+external device 
+Network Spreader 
 
 
 #### Artificial Intelligence 
