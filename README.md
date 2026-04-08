@@ -119,6 +119,42 @@ Decrypt
   Safari (WebKit)
   Mozilla Firefox (Gecko)
   TOR Browser 
+
+  IM Control
+  Discord
+  Telegram
+  Session
+  Signal
+  Slack
+
+
+
+  Mail Control
+  Windows Mail App
+  Mozilla Thunderbird
+  Protonmail Desktop
+
+
+  Password Control 
+  Keypass
+  KeypassXC
+
+
+
+
+#### System Administrator 
+Fleet Control
+
+
+
+#### Red Team 
+Spawn Kali 
+Spawn ubuntu 
+Spawn Linux Distro (Beta)
+  
+  
+
+
     
 
 #### Search Engine Redirects 
@@ -127,6 +163,10 @@ Decrypt
   Starpage
   Bing
   Duckduckgo
+  Yahoo
+
+  Custom (Add Here) 
+
 
 Ad ID Management and Redirects 
 
@@ -157,20 +197,26 @@ Catch all
 selective mode 
 emailer 
 
+
+#### Prank Module
+scary
+seasonal
+pop-up
+custom-run
+
+
+
+
+
 #### Process Management 
 
   kill
   start
 
-
 File Transfer
-
 Cameras / Microphone
-
 Registry Editor
-
 Remote Shell
-
 Uninstaller
 Installer 
 
@@ -180,32 +226,30 @@ Installer
   WIFI
   Cookies
   SQLite 
+  MySQL
+  PostGre
+  MariaDB
   Mail
   FTP
   Clipboard
+  doc grabber 
+
     
 
 #### Injector
 
 HTML
-
 JavaScript
-
 DOM
-
 DLL
-
 Ads
     
 
 #### Miner
 
 Miner Control Panel  
-
 Resource Management 
-
 Mining Scheduler 
-
 Mining Pool Configurator 
 
 
@@ -215,41 +259,48 @@ Mining Pool Configurator
 #### Screen Recorder 
 
 720p 30fps
-
 720p 60fps
-
 720p 120fps
-
+1080p 30fps
 1080p 60fps
-
 1080p 120fps
-
 4k 30fps
-
 4k 60fps
-
 4k 120fps
 
 
 
 #### Scheduler   
 
+
 #### Network Stressor
+
 
 #### Network Monitoring
 
+
 #### Restrictor
+Block App
+
 
 #### Plugins/Scripts Support
 
-#### Obfuscation 
+
+#### Obfuscation and Protection 
+anti-Analysis 
+anti-forensics
+anti-vm
+anti-uninstall
+protect process 
+
 
 #### Encryption
 
+
 #### Automation
 
-#### Wormlike Capabilities 
 
+#### Wormlike Capabilities 
 
 
 #### Artificial Intelligence 
@@ -259,31 +310,26 @@ Mining Pool Configurator
 
 #### Background Changer
 
+
 #### Multiple Languages Support:
 
 English
-
 French
-
 Italian
-
 Russian
-
 Chinese
-
 Korean
-
 Arabic
-
 Spanish
-
 Persian
 
 #### Messaging System
+Chat-Window
 
 #### Decentralized 
 
 #### P2P
+torrent manager 
 
 #### Modular Configuration Generator and Loader 
 
