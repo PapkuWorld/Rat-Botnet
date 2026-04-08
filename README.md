@@ -61,6 +61,19 @@ IOT
 
 
 
+(Note: Embedded OS might have restrictions)
+CCTV and IP Camera OS 
+ring
+nest
+
+Host of Common Manifacturers by popular and standard market share
+Samsung
+Phillips 
+
+
+
+
+
 #### Persistence
 
  Operating System
